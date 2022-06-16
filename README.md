@@ -13,7 +13,10 @@
 <p>
 Everyday I try to improve myself to be better than the day before.
 <p>
-My Tech Stack(For now): Flutter, Android app. Development(Kotlin XML or Kotlin Jetpack Compose)
+<h4>My Tech Stack (For now): </h4>
+Mobile: Flutter, Android app. Development(Kotlin XML or Kotlin Jetpack Compose)
+<p>
+Backend: NodeJS, Go
 <p>
 
 <h3 align="left">Connect with me:</h3>
