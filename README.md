@@ -2,13 +2,13 @@
 <h3 align="center">A passionate Software Developer who interested in mobile application development and backend development </h3>
 
 
-- 🔭 I’m currently working on mobile app. development.
+> - 🔭 I’m currently working on mobile app. development.
 
-- 🌱 I’m currently learning Flutter and Kotlin.
+> - 🌱 I’m currently learning Flutter and Kotlin.
 
-- 🔥 On the way to becoming "Software Engineer".
+> - 🔥 On the way to becoming "Software Engineer".
 
-- 📫 How to reach me: **onurdyr510@gmail.com**
+> - 📫 How to reach me: **onurdyr510@gmail.com**
 
 <p>
 Everyday I try to improve myself to be better than the day before.
