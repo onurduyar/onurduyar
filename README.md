@@ -4,20 +4,13 @@
 
 > - 🔭 I’m currently working on mobile app. development.
 
-> - 🌱 I’m currently learning Flutter and Kotlin.
-
 > - 🔥 On the way to becoming "Software Engineer".
 
 > - 📫 How to reach me: **onurdyr510@gmail.com**
 
 <p>
 Everyday I try to improve myself to be better than the day before.
-<p>
-<h4>My Tech Stack (For now): </h4>
-Mobile: Flutter, Android app. Development(Kotlin XML or Kotlin Jetpack Compose), SwiftUI (if i could have a macbook)
-<p>
-Backend: NodeJS, Go
-<p>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
