@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Onur Duyar</h1>
-<h3 align="center">A passionate Software Developer who interested in mobile application development and backend development </h3>
+<h3 align="center">A passionate Software Engineer, iOS Developer</h3>
 
 
 > - 🔭 I’m currently working on mobile app. development.
