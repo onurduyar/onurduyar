@@ -1,16 +1,10 @@
 <h1 align="center">Hi 👋, I'm Onur Duyar</h1>
-<h3 align="center">A passionate Software Engineer, iOS Developer</h3>
+<h3 align="center">A passionate Software Engineer</h3>
 
-
-> - 🔭 I’m currently working on mobile app. development.
-
-> - 🔥 On the way to becoming "Software Engineer".
+> - 🔥 I love the fact that I could make an impact to people via my code, whatever tool I could build to help
+them solve their daily life sounds super exciting to me.
 
 > - 📫 How to reach me: **onurdyr510@gmail.com**
-
-<p>
-Everyday I try to improve myself to be better than the day before.
-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
