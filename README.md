@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Onur Duyar</h1>
 <h3 align="center">A passionate Software Engineer</h3>
 
-> - 🔥 I love the fact that I could make an impact to people via my code, whatever tool I could build to help
-them solve their daily life sounds super exciting to me.
+> - 🔥 I love the fact that I can make an impact on people's lives through my code. The idea of building tools to help solve their daily challenges is super exciting to me. 
 
 > - 📫 How to reach me: **onurdyr510@gmail.com**
 
