@@ -24,50 +24,18 @@
 • **Tool-calling AI systems**
 
 ---
+### 🛠 Tech Stack
 
-### Tech Stack
-
-**Languages**
-
-• TypeScript  
-• JavaScript  
-• Swift  
-
-**Backend**
-
-• Node.js  
-• NestJS  
-• REST APIs  
-• Microservices  
-
-**Frontend / Mobile**
-
-• React  
-• Next.js  
-• React Native  
-
-**Messaging / Realtime**
-
-• Kafka  
-• Redis  
-• WebSockets  
-
-**Databases**
-
-• PostgreSQL  
-• MongoDB  
-• MySQL  
-• InfluxDB  
-
-**DevOps & Tools**
-
-• Docker  
-• Git  
-• Postman  
-• Swagger  
+| Category | Technologies |
+|--------|-------------|
+| **Languages** | TypeScript, JavaScript, Swift |
+| **Backend** | Node.js, NestJS, REST APIs, Microservices |
+| **Frontend / Mobile** | React, Next.js, React Native |
+| **Messaging / Realtime** | Kafka, Redis, WebSockets |
+| **Databases** | PostgreSQL, MongoDB, MySQL, InfluxDB |
+| **DevOps & Tools** | Docker, Git, Postman, Swagger |
 
 ---
-
 ### 📫 Contact
 
 • Email: **onurdyr510@gmail.com**
