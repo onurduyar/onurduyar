@@ -1,26 +1,82 @@
-<h1 align="center">Hi 👋, I'm Onur Duyar</h1>
-<h3 align="center">A passionate Software Engineer</h3>
+<h1 align="center">Hi 👋 I'm Onur Duyar</h1>
+<h3 align="center">Software Engineer • Backend Systems • AI & LLM Applications</h3>
 
-> - 🔥 I love the fact that I can make an impact on people's lives through my code. The idea of building tools to help solve their daily challenges is super exciting to me. 
+---
 
-> - 📫 How to reach me: **onurdyr510@gmail.com**
+### About Me
 
-I'm currently working with following technologies: 
+• Software Engineer focused on **scalable backend systems and AI-powered applications**
 
-- JavaScript-TypeScript
-- NodeJS-NestJS
-- ReactNative
-- React-NextJS-Material UI
-- Messaging and Caching: Redis, Kafka
-- Databases: MongoDB, PostgreSQL, MySQL, InfluxDB, 
-- iOS App. Development: Swift-UIKit-SwiftUI
-- Software Design and Architecture: Object-Oriented Programming/Design (OOP/OOD), Design Patterns, SOLID principles
-- Algorithm Design and Analysis
-- Data Structure Design and Analysis
+• Working mainly with the **TypeScript ecosystem**: Node.js, NestJS, React, Next.js
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://www.linkedin.com/in/onurduyarr/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
-  <a href="mailto:onurdyr510@gmail.com" target="_blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
-</p>
+• Interested in **LLM systems, AI agents, and developer tooling**
 
+• Enjoy designing **real-time architectures, distributed systems, and event-driven platforms**
+
+---
+
+### Currently Exploring
+
+• **LLM Applications**
+• **Prompt Engineering**
+• **Agent Architectures / Agentic AI**
+• **RAG (Retrieval-Augmented Generation)**
+• **Tool-calling AI systems**
+
+---
+
+### Tech Stack
+
+**Languages**
+
+• TypeScript  
+• JavaScript  
+• Swift  
+
+**Backend**
+
+• Node.js  
+• NestJS  
+• REST APIs  
+• Microservices  
+
+**Frontend / Mobile**
+
+• React  
+• Next.js  
+• React Native  
+
+**Messaging / Realtime**
+
+• Kafka  
+• Redis  
+• WebSockets  
+
+**Databases**
+
+• PostgreSQL  
+• MongoDB  
+• MySQL  
+• InfluxDB  
+
+**DevOps & Tools**
+
+• Docker  
+• Git  
+• Postman  
+• Swagger  
+
+---
+
+### 📫 Contact
+
+• Email: **onurdyr510@gmail.com**
+
+• LinkedIn  
+<a href="https://www.linkedin.com/in/onurduyarr/" target="_blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40"/>
+</a>
+
+---
+
+⭐ I enjoy building **AI-native software systems, developer tools, and scalable backend platforms.**
